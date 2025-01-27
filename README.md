@@ -4,10 +4,9 @@ This repository contains my solutions to LeetCode problems categorized by topics
 
 ## Repository Structure
 
-- `solutions/`: Contains code solutions grouped by category.
-- `docs/problem_descriptions/`: Includes problem descriptions and approach explanations.
+- `solutions/`: Contains problem descriptions, approach explanations and the solutions grouped by category.
 
 ## How to Use
 
 1. Navigate to the respective category folder.
-2. Review the solution code or read the problem description for insights.
+2. Review the solution code and read the problem description for insights.
