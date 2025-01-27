@@ -2,8 +2,8 @@
 Problem: Remove Duplicates from Sorted Array
 Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 Approch: We can use two pointers one for the curr val that we check and the other for the free space
-Time Complexity: O()
-Space Complexity: O()
+Time Complexity: O(n)
+Space Complexity: O(1)
 """
 
 def removeDuplicates(nums):
